@@ -1,0 +1,3 @@
+Mantel test: não aplicável (são necessárias >= 3 populações).
+Par único: distância = 2924.247 km, F_ST = 0.002795
+Sugestão: incluir >=1 população adicional para testar IBD.

@@ -1,0 +1,26 @@
+=== AMOVA (pegas) ===
+
+	Analysis of Molecular Variance
+
+Call: amova(formula = D ~ pops)
+
+           SSD       MSD df
+pops  2724.633 2724.6333  1
+Error 2244.667  280.5833  8
+Total 4969.300  552.1444  9
+
+Variance components:
+      sigma2 P.value
+pops  581.92   0.009
+Error 280.58        
+
+Phi-statistics:
+pops.in.GLOBAL 
+      0.674686 
+
+Variance coefficients:
+  a 
+4.2 
+
+
+PhiST global: 

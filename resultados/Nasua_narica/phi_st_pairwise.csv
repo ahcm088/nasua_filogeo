@@ -1,0 +1,16 @@
+"pop1","pop2","PhiST","n1","n2"
+"Belize","Costa Rica",NA,2,1
+"Belize","Guatemala",NA,2,20
+"Belize","Mexico",NA,2,33
+"Belize","Panama",NA,2,12
+"Belize","USA",NA,2,15
+"Costa Rica","Guatemala",NA,1,20
+"Costa Rica","Mexico",NA,1,33
+"Costa Rica","Panama",NA,1,12
+"Costa Rica","USA",NA,1,15
+"Guatemala","Mexico",NA,20,33
+"Guatemala","Panama",NA,20,12
+"Guatemala","USA",NA,20,15
+"Mexico","Panama",NA,33,12
+"Mexico","USA",NA,33,15
+"Panama","USA",NA,12,15

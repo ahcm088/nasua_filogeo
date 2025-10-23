@@ -1,0 +1,5 @@
+# Ambiente virtual Python
+.venv/
+
+# Configs/artefatos do VS Code (gerados localmente)
+.vscode/

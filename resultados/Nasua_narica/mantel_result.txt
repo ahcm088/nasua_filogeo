@@ -1,0 +1,3 @@
+Mantel test (Pearson, 999 perms)
+r = 0.517760
+p = 0.246000
